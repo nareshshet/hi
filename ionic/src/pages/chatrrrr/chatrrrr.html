@@ -1,0 +1,45 @@
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,600,900&display=swap" rel="stylesheet" />
+<ion-header>
+    <ion-navbar>
+        <ion-title>Chatrrrr</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding text-center id="page-chatrrrr">
+    <div class="shape-container">
+        <div class="wave-1"></div>
+        <div class="wave-2"></div>
+    </div>
+    <div class="chat-container-elegance">
+        <div class="chat-intro">
+            <img src="build/assets/imgs/chatbot.png">
+            <div class="intro-text-container">
+                <h4>Watson Bot</h4>
+                <p>You are talking to your friendly neighborhood IBM Watson bot. I will be as helpful as I possibly can.
+                    Here is hoping you find the answers you are looking for.</p>
+            </div>
+        </div>
+        <ul class="chat-wrapper-elegance">
+            <li *ngFor="let msg of messages"
+                [attr.class]="!msg.isWatson ? 'user-msg-elegance animated animatedFadeInUp fadeInUp' : 'support-msg-elegance animated animatedFadeInUp fadeInUp'">
+                <div class="msg-content-container">
+                    <p class="msg-head">{{msg.isWatson ? 'BOT' : username}}</p>
+                    <p class="msg">{{msg.m}}</p>
+                </div>
+                <span>{{msg.time}}</span>
+            </li>
+        </ul>
+        <div class="chat-input-container">
+            <textarea placeholder="Your message here..." [(ngModel)]="input" (keyup.enter)="message()"></textarea>
+            <button class="send-btn-elegance" (click)="message()">
+                <svg focusable="false" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" width="32"
+                    height="32" viewBox="0 0 32 32" aria-hidden="true" style="will-change: transform;">
+                    <path
+                        d="M27.71 4.29a1 1 0 0 0-1.05-.23l-22 8a1 1 0 0 0 0 1.87l9.6 3.84 3.84 9.6a1 1 0 0 0 .9.63 1 1 0 0 0 .92-.66l8-22a1 1 0 0 0-.21-1.05zM19 24.2l-2.79-7L21 12.41 19.59 11l-4.83 4.83L7.8 13l17.53-6.33z">
+                    </path>
+                    <title>Send alt</title>
+                </svg>
+            </button>
+        </div>
+    </div>
+</ion-content>

@@ -1,0 +1,708 @@
+Project created on Fri Apr 10 2020, 17:33:29 GMT+0530 (India Standard Time)
+
+ Info | datasourceDB | init | Fri Apr 10 2020, 17:33:29 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri Apr 10 2020, 17:33:29 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri Apr 10 2020, 17:33:29 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri Apr 10 2020, 17:33:29 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri Apr 10 2020, 17:33:29 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri Apr 10 2020, 17:33:29 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:29 GMT+0530 (India Standard Time) | Initialized all the DB's
+Success | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:29 GMT+0530 (India Standard Time) | Project created on file system.
+Success | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:29 GMT+0530 (India Standard Time) | Added app title to index.html
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:29 GMT+0530 (India Standard Time) | Added bundle id to config.xml
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:29 GMT+0530 (India Standard Time) | Copying over required plugins including mfp plugin
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:29 GMT+0530 (India Standard Time) | Unzip start: 17:33:29
+Success | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:30 GMT+0530 (India Standard Time) | Copied over required app-build.json file
+Success | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:32 GMT+0530 (India Standard Time) | Copied over required node modules
+Success | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:32 GMT+0530 (India Standard Time) | Copied over required plugins
+Success | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:42 GMT+0530 (India Standard Time) | Copied over required cordova-plugin-mgp
+Success | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:42 GMT+0530 (India Standard Time) | Unzip finish: 17:33:42
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:42 GMT+0530 (India Standard Time) | Installing dependencies and adding platform
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:42 GMT+0530 (India Standard Time) | Running npm install
+ Error | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:43 GMT+0530 (India Standard Time) | npm 
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:282400)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:43 GMT+0530 (India Standard Time) | WARN deprecated @angular/http@5.2.11: Package no longer supported. Use @angular/common instead, see https://angular.io/guide/deprecations#angularhttp
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:282400)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:44 GMT+0530 (India Standard Time) | npm WARN deprecated sw-toolbox@3.6.0: Please migrate to Workbox: https://developers.google.com/web/tools/workbox/guides/migrations/migrate-from-sw
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:282400)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:44 GMT+0530 (India Standard Time) | npm WARN deprecated rollup-plugin-commonjs@8.2.6: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-commonjs.
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:282400)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:44 GMT+0530 (India Standard Time) | npm WARN deprecated rollup-plugin-node-resolve@3.0.0: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-node-resolve.
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:282400)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:44 GMT+0530 (India Standard Time) | npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:282400)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:45 GMT+0530 (India Standard Time) | npm WARN deprecated browserslist@2.11.3: Browserslist 2 could fail on reading Browserslist >3.0 config used in other tools.
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:282400)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:47 GMT+0530 (India Standard Time) | npm WARN deprecated node-uuid@1.4.7: Use uuid module instead
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:282400)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:48 GMT+0530 (India Standard Time) | npm WARN deprecated lodash-node@2.4.1: This package is discontinued. Use lodash@^4.0.0.
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:282400)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:50 GMT+0530 (India Standard Time) | npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:282400)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Apr 10 2020, 17:33:50 GMT+0530 (India Standard Time) | npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:282400)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:04 GMT+0530 (India Standard Time) | 
+> fsevents@1.2.12 install /Users/aishwaryadodmani/Desktop/aaasala/ionic/node_modules/fsevents
+> node-gyp rebuild
+
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:06 GMT+0530 (India Standard Time) |   SOLINK_MODULE(target) Release/.node
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:06 GMT+0530 (India Standard Time) |   CXX(target) Release/obj.target/fse/fsevents.o
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:07 GMT+0530 (India Standard Time) |   SOLINK_MODULE(target) Release/fse.node
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:07 GMT+0530 (India Standard Time) | 
+> node-sass@4.13.1 install /Users/aishwaryadodmani/Desktop/aaasala/ionic/node_modules/node-sass
+> node scripts/install.js
+
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:08 GMT+0530 (India Standard Time) | Cached binary found at /Users/aishwaryadodmani/.npm/node-sass/4.13.1/darwin-x64-64_binding.node
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:08 GMT+0530 (India Standard Time) | 
+> uglifyjs-webpack-plugin@0.4.6 postinstall /Users/aishwaryadodmani/Desktop/aaasala/ionic/node_modules/uglifyjs-webpack-plugin
+> node lib/post_install.js
+
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:08 GMT+0530 (India Standard Time) | 
+> node-sass@4.13.1 postinstall /Users/aishwaryadodmani/Desktop/aaasala/ionic/node_modules/node-sass
+> node scripts/build.js
+
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:08 GMT+0530 (India Standard Time) | Binary found at /Users/aishwaryadodmani/Desktop/aaasala/ionic/node_modules/node-sass/vendor/darwin-x64-64/binding.node
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:08 GMT+0530 (India Standard Time) | Testing binary
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:08 GMT+0530 (India Standard Time) | Binary is fine
+
+ Error | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:08 GMT+0530 (India Standard Time) | npm notice created a lockfile as package-lock.json. You should commit this file.
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:282400)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:08 GMT+0530 (India Standard Time) | added 1055 packages from 715 contributors and audited 7900 packages in 25.83s
+found 64 vulnerabilities (17 low, 17 moderate, 30 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:09 GMT+0530 (India Standard Time) | ✔ Creating ./www directory for you - done!
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:09 GMT+0530 (India Standard Time) | > cordova plugin add /Users/aishwaryadodmani/Desktop/aaasala/ionic/mfp-plugin/cordova-plugin-mfp --save
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:24 GMT+0530 (India Standard Time) | Adding cordova-plugin-mfp to package.json
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:25 GMT+0530 (India Standard Time) | > cordova platform add ios@5.0.0 --save
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:25 GMT+0530 (India Standard Time) | Using cordova-fetch for cordova-ios@5.0.0
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:36 GMT+0530 (India Standard Time) | Adding ios project...
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:36 GMT+0530 (India Standard Time) | Creating Cordova project for the iOS platform:
+	Path: platforms/ios
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:36 GMT+0530 (India Standard Time) | 	Package: com.aish
+	Name: aaasala
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:36 GMT+0530 (India Standard Time) | iOS project created with cordova-ios@5.0.0
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:36 GMT+0530 (India Standard Time) | Installing "cordova-plugin-device" for ios
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:36 GMT+0530 (India Standard Time) | Installing "cordova-plugin-dialogs" for ios
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:37 GMT+0530 (India Standard Time) | Installing "cordova-plugin-globalization" for ios
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:37 GMT+0530 (India Standard Time) | Installing "cordova-plugin-ionic-keyboard" for ios
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:37 GMT+0530 (India Standard Time) | Installing "cordova-plugin-ionic-webview" for ios
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:38 GMT+0530 (India Standard Time) | Installing "cordova-plugin-mfp" for ios
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:38 GMT+0530 (India Standard Time) | Plugin dependency "cordova-plugin-device@2.0.2" already fetched, using that version.
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:38 GMT+0530 (India Standard Time) | Dependent plugin "cordova-plugin-device" already installed on ios.
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:38 GMT+0530 (India Standard Time) | Plugin dependency "cordova-plugin-dialogs@2.0.1" already fetched, using that version.
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:38 GMT+0530 (India Standard Time) | Dependent plugin "cordova-plugin-dialogs" already installed on ios.
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:38 GMT+0530 (India Standard Time) | Plugin dependency "cordova-plugin-globalization@1.11.0" already fetched, using that version.
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:38 GMT+0530 (India Standard Time) | Dependent plugin "cordova-plugin-globalization" already installed on ios.
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:38 GMT+0530 (India Standard Time) | If you made changes to your AppDelegate.m file, manually merge AppDelegate.m.bak with the AppDelegate.m file that is provided with IBM MobileFirst Platform Foundation.
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:38 GMT+0530 (India Standard Time) | Installing "cordova-plugin-okhttp" for ios
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:38 GMT+0530 (India Standard Time) | Installing "cordova-plugin-splashscreen" for ios
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:38 GMT+0530 (India Standard Time) | Installing "cordova-plugin-statusbar" for ios
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:38 GMT+0530 (India Standard Time) | Installing "cordova-plugin-whitelist" for ios
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:39 GMT+0530 (India Standard Time) | Plugin 'cordova-plugin-whitelist' found in config.xml... Migrating it to package.json
+Plugin 'cordova-plugin-device' found in config.xml... Migrating it to package.json
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:39 GMT+0530 (India Standard Time) | Plugin 'cordova-plugin-statusbar' found in config.xml... Migrating it to package.json
+Plugin 'cordova-plugin-splashscreen' found in config.xml... Migrating it to package.json
+Plugin 'cordova-plugin-ionic-webview' found in config.xml... Migrating it to package.json
+Plugin 'cordova-plugin-ionic-keyboard' found in config.xml... Migrating it to package.json
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:39 GMT+0530 (India Standard Time) | > ionic-app-scripts build --target cordova --platform ios
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:41 GMT+0530 (India Standard Time) | [17:34:41]  ionic-app-scripts 3.2.4 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:41 GMT+0530 (India Standard Time) | [17:34:41]  build dev started ... 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:41 GMT+0530 (India Standard Time) | [17:34:41]  clean started ... 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:41 GMT+0530 (India Standard Time) | [17:34:41]  clean finished in 2 ms 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:41 GMT+0530 (India Standard Time) | [17:34:41]  copy started ... 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:41 GMT+0530 (India Standard Time) | [17:34:41]  deeplinks started ... 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:41 GMT+0530 (India Standard Time) | [17:34:41]  deeplinks finished in 18 ms 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:41 GMT+0530 (India Standard Time) | [17:34:41]  transpile started ... 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:43 GMT+0530 (India Standard Time) | [17:34:43]  transpile finished in 2.23 s 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:43 GMT+0530 (India Standard Time) | [17:34:43]  preprocess started ... 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:43 GMT+0530 (India Standard Time) | [17:34:43]  preprocess finished in less than 1 ms 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:43 GMT+0530 (India Standard Time) | [17:34:43]  webpack started ... 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:43 GMT+0530 (India Standard Time) | [17:34:43]  copy finished in 2.38 s 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:46 GMT+0530 (India Standard Time) | [17:34:46]  webpack finished in 2.73 s 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:46 GMT+0530 (India Standard Time) | [17:34:46]  sass started ... 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:47 GMT+0530 (India Standard Time) | [17:34:47]  sass finished in 939 ms 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:47 GMT+0530 (India Standard Time) | [17:34:47]  postprocess started ... 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:47 GMT+0530 (India Standard Time) | [17:34:47]  postprocess finished in 5 ms 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:47 GMT+0530 (India Standard Time) | [17:34:47]  lint started ... 
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:47 GMT+0530 (India Standard Time) | [17:34:47]  build dev finished in 6.02 s 
+
+ Error | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:49 GMT+0530 (India Standard Time) | [33m[17:34:49]  tslint: src/pages/home/home.ts, line: 1 [39m
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:282400)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:49 GMT+0530 (India Standard Time) | [33m[17:34:49]  tslint: src/pages/home/home.ts, line: 2 [39m
+[33m[17:34:49]  tslint: src/app/app.component.ts, line: 27 [39m
+[33m[17:34:49]  tslint: src/app/app.component.ts, line: 27 [39m
+[33m[17:34:49]  tslint: src/app/app.component.ts, line: 27 [39m
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:282400)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:49 GMT+0530 (India Standard Time) |             'NgZone' is declared but its value is never read. 
+
+[2m       L1:  [22mimport { Component, Renderer, [41mN[49m[41mg[49m[41mZ[49m[41mo[49m[41mn[49m[41me[49m } from "@angular/core";
+[2m       L2:  [22mimport { NavController, ModalController } from "ionic-angular";
+
+            'ModalController' is declared but its value is never read. 
+
+[2m       L1:  [22mimport { Component, Renderer, NgZone } from "@angular/core";
+[2m       L2:  [22mimport { NavController, [41mM[49m[41mo[49m[41md[49m[41ma[49m[41ml[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from "ionic-angular";
+[2m       L3:  [22mimport { DataStore } from "../../app/dataStore";
+
+            Property 'renderer' is declared but its value is never read. 
+
+[2m      L27:  [22mar: StatusBar, public splashScreen: SplashScreen, private [41mr[49m[41me[49m[41mn[49m[41md[49m[41me[49m[41mr[49m[41me[49m[41mr[49m: Renderer, private cdr: ChangeDetectorRef
+[2m      L28:  [22m    renderer.listenGlobal('document', 'mfpjsloaded', () => {
+
+            Property 'cdr' is declared but its value is never read. 
+
+[2m      L27:  [22mreen: SplashScreen, private renderer: Renderer, private [41mc[49m[41md[49m[41mr[49m: ChangeDetectorRef,private liveUpdateService:Liv
+[2m      L28:  [22m    renderer.listenGlobal('document', 'mfpjsloaded', () => {
+
+            Property 'liveUpdateService' is declared but its value is never read. 
+
+[2m      L27:  [22m, private renderer: Renderer, private cdr: ChangeDetectorRef,private [41ml[49m[41mi[49m[41mv[49m[41me[49m[41mU[49m[41mp[49m[41md[49m[41ma[49m[41mt[49m[41me[49m[41mS[49m[41me[49m[41mr[49m[41mv[49m[41mi[49m[41mc[49m[41me[49m:LiveUpdateProvider) {
+[2m      L28:  [22m    renderer.listenGlobal('document', 'mfpjsloaded', () => {
+
+[17:34:49]  lint finished in 1.76 s 
+> cordova prepare ios
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:50 GMT+0530 (India Standard Time) | Attempting to install In-App feedback analytics plugin
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:51 GMT+0530 (India Standard Time) | > cordova plugin add cordova-plugin-mfp-analytics@latest --save
+
+Success | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:57 GMT+0530 (India Standard Time) | ios-sim installed successfully + ios-sim@9.0.0
+added 53 packages from 41 contributors and audited 282 packages in 6.729s
+found 0 vulnerabilities
+
+
+ Error | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:57 GMT+0530 (India Standard Time) | Error in installing ios sim  npm WARN saveError ENOENT: no such file or directory, open '/Users/aishwaryadodmani/Desktop/aaasala/ionic/platforms/ios/cordova/package.json'
+npm notice created a lockfile as package-lock.json. You should commit this file.
+npm WARN enoent ENOENT: no such file or directory, open '/Users/aishwaryadodmani/Desktop/aaasala/ionic/platforms/ios/cordova/package.json'
+npm WARN cordova No description
+npm WARN cordova No repository field.
+npm WARN cordova No README data
+npm WARN cordova No license field.
+
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:284469
+    at ChildProcess.exithandler (child_process.js:299:7)
+    at ChildProcess.emit (events.js:203:13)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:283:5) Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:57 GMT+0530 (India Standard Time) | Attempting to create app on server
+Success | projectHandler | createIonicProject | Fri Apr 10 2020, 17:34:57 GMT+0530 (India Standard Time) | All done! You are ready to rock and roll
+Success | CreatingAppActions | createNewAppOnServer | Fri Apr 10 2020, 17:34:58 GMT+0530 (India Standard Time) | App created on the server successfully for 'ios' platform
+ Info | ImportExportConfig | exportAppConfiguration | Fri Apr 10 2020, 17:34:58 GMT+0530 (India Standard Time) | Exported project configuration successfully
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:35:00 GMT+0530 (India Standard Time) | Installing "cordova-plugin-mfp-analytics" for ios
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:35:00 GMT+0530 (India Standard Time) | Plugin dependency "cordova-plugin-mfp@8.0.2019090917" already fetched, using that version.
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:35:00 GMT+0530 (India Standard Time) | Dependent plugin "cordova-plugin-mfp" already installed on ios.
+
+ Info | projectHandler | createIonicProject | Fri Apr 10 2020, 17:35:00 GMT+0530 (India Standard Time) | Adding cordova-plugin-mfp-analytics to package.json
+
+Success | projectHandler | createIonicProject | Fri Apr 10 2020, 17:35:01 GMT+0530 (India Standard Time) | In-App feedback analytics plugin installed successfully
+ Info | BuilderEditor | saveFile | Fri Apr 10 2020, 17:42:11 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/aaasala/ionic/src/pages/home/home1.html
+ Info | BuilderEditor | saveFile | Fri Apr 10 2020, 17:42:13 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/aaasala/ionic/src/pages/home/home1.html
+ Info | BuilderEditor | saveFile | Fri Apr 10 2020, 17:42:18 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/aaasala/ionic/src/pages/home/home1.html
+ Info | BuilderEditor | saveFile | Fri Apr 10 2020, 17:42:34 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/aaasala/ionic/src/pages/home/home1.css
+ Info | APIProjectActions | prepareAPIProject | Fri Apr 10 2020, 17:42:45 GMT+0530 (India Standard Time) | Preparing API Project
+ Info | APIProjectActions | deployAdapter | Fri Apr 10 2020, 17:42:45 GMT+0530 (India Standard Time) | Deploying API Project adapter
+ Info | APIProjectActions | deployAdapter | Fri Apr 10 2020, 17:42:46 GMT+0530 (India Standard Time) | API Project adapter deployed to server
+ Info | APIProjectActions | prepareAPIProject | Fri Apr 10 2020, 17:42:46 GMT+0530 (India Standard Time) | Successfully prepared API Project
+ Info | settingsDB | getByType | Fri Apr 10 2020, 17:43:05 GMT+0530 (India Standard Time) | getByType returned null
+ Info | settingsDB | getByType | Fri Apr 10 2020, 17:43:05 GMT+0530 (India Standard Time) | getByType returned null
+ Info | settingsDB | getByType | Fri Apr 10 2020, 17:43:55 GMT+0530 (India Standard Time) | getByType returned null
+ Info | IonicFsHandler | runCodePageScripts | Fri Apr 10 2020, 17:44:14 GMT+0530 (India Standard Time) | Adding Cordova plugins needed for control chat
+ Info | IonicFsHandler | runCodePageScripts | Fri Apr 10 2020, 17:44:15 GMT+0530 (India Standard Time) | > cordova plugin add cordova-plugin-advanced-http@2.0.6 --save
+
+ Info | IonicFsHandler | runCodePageScripts | Fri Apr 10 2020, 17:44:23 GMT+0530 (India Standard Time) | Installing "cordova-plugin-advanced-http" for ios
+
+ Info | IonicFsHandler | runCodePageScripts | Fri Apr 10 2020, 17:44:26 GMT+0530 (India Standard Time) | Failed to install 'cordova-plugin-advanced-http': CordovaError: Failed to fetch plugin cordova-plugin-file@>=2.0.0 via registry.
+
+ Info | IonicFsHandler | runCodePageScripts | Fri Apr 10 2020, 17:44:26 GMT+0530 (India Standard Time) | Probably this is either a connection problem, or plugin spec is incorrect.
+Check your connection and plugin name/version/URL.
+Error: npm: Command failed with exit code 251 Error output:
+npm ERR! code Z_BUF_ERROR
+npm ERR! errno -5
+npm ERR! zlib: unexpected end of file
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/aishwaryadodmani/.npm/_logs/2020-04-10T12_14_26_238Z-debug.log
+    at /Users/aishwaryadodmani/Library/Application Support/IBM Digital App Builder/prereqs/cordova/node_modules/cordova-lib/src/plugman/fetch.js:146:43
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Failed to fetch plugin cordova-plugin-file@>=2.0.0 via registry.
+Probably this is either a connection problem, or plugin spec is incorrect.
+Check your connection and plugin name/version/URL.
+Error: npm: Command failed with exit code 251 Error output:
+npm ERR! code Z_BUF_ERROR
+npm ERR! errno -5
+
+ Info | IonicFsHandler | runCodePageScripts | Fri Apr 10 2020, 17:44:26 GMT+0530 (India Standard Time) | npm ERR! zlib: unexpected end of file
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/aishwaryadodmani/.npm/_logs/2020-04-10T12_14_26_238Z-debug.log
+
+ Error | IonicFsHandler | runCodePageScripts | Fri Apr 10 2020, 17:44:26 GMT+0530 (India Standard Time) | [ERROR] An error occurred while running subprocess cordova.
+        
+        cordova plugin add cordova-plugin-advanced-http@2.0.6 --save exited with exit code 1.
+        
+        Re-running this command with the --verbose flag may provide more information.
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:161763)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | [object Object] | undefined | Fri Apr 10 2020, 17:44:35 GMT+0530 (India Standard Time) | undefined
+Success | IonicFsHandler | runCodePageScripts | Fri Apr 10 2020, 17:44:35 GMT+0530 (India Standard Time) | Successfully ran npm install
+Success | IonicFsHandler | runCodePageScripts | Fri Apr 10 2020, 17:44:35 GMT+0530 (India Standard Time) | Successfully installed npm modules and added Cordova plugins
+ Info | IonicTopBar | prepareAppForPreview | Fri Apr 10 2020, 17:45:00 GMT+0530 (India Standard Time) | Sip on your coffee while we prepare your app
+ Info | IonicTopBar | prepareAppForPreview | Fri Apr 10 2020, 17:45:00 GMT+0530 (India Standard Time) | Running ionic cordova prepare... sit back and relax
+ Info | IonicTopBar | prepareAppForPreview | Fri Apr 10 2020, 17:45:00 GMT+0530 (India Standard Time) | Updated bundle ID in config.xml.
+ Info | IonicTopBar | prepareAppForPreview | Fri Apr 10 2020, 17:45:00 GMT+0530 (India Standard Time) | Updated version in config.xml.
+ Info | IonicTopBar | prepareAppForPreview | Fri Apr 10 2020, 17:45:00 GMT+0530 (India Standard Time) | Updated MFP server URL in config.xml.
+ Info | IonicTopBar | prepareAppForPreview | Fri Apr 10 2020, 17:45:00 GMT+0530 (India Standard Time) | MFP server URL updated is : http://127.0.0.1:9080 
+ Info | IonicTopBar | prepareAppForPreview | Fri Apr 10 2020, 17:45:00 GMT+0530 (India Standard Time) | Config.xml is updated
+ Info | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:00 GMT+0530 (India Standard Time) | Trying to shut down previous process
+ Info | updatePreviewState | undefined | Fri Apr 10 2020, 17:45:00 GMT+0530 (India Standard Time) | undefined
+ Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:01 GMT+0530 (India Standard Time) | 2020-04-10T12:15:01.177Z ionic:lib Terminal info: { tty: false, ci: false, windows: false }
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:01 GMT+0530 (India Standard Time) | 2020-04-10T12:15:01.179Z ionic:lib CLI global options: { _: [ 'cordova', 'run', 'ios' ], help: null, h: null, verbose: null, quiet: null, interactive: false, color: true, confirm: null, json: null, project: null, '--': [ '--buildFlag=-UseModernBuildSystem=0', '--verbose', '--no-interactive' ] }
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:01 GMT+0530 (India Standard Time) | 2020-04-10T12:15:01.295Z ionic:lib:project Project type from config: Ionic 2/3 (ionic-angular)
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:01 GMT+0530 (India Standard Time) | 2020-04-10T12:15:01.295Z ionic:lib:project Project details: { configPath: '/Users/aishwaryadodmani/Desktop/aaasala/ionic/ionic.config.json', errors: [], context: 'app', type: 'ionic-angular' }
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:01 GMT+0530 (India Standard Time) | 2020-04-10T12:15:01.304Z ionic Context: { binPath: '/Users/aishwaryadodmani/Library/Application Support/IBM Digital App Builder/prereqs/ionic/node_modules/ionic/bin/ionic', libPath: '/Users/aishwaryadodmani/Library/Application Support/IBM Digital App Builder/prereqs/ionic/node_modules/ionic', execPath: '/Users/aishwaryadodmani/Desktop/aaasala/ionic', version: '4.12.0' }
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:01 GMT+0530 (India Standard Time) | 2020-04-10T12:15:01.353Z ionic:lib:integrations:cordova:config Using config.xml: /Users/aishwaryadodmani/Desktop/aaasala/ionic/config.xml
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:01 GMT+0530 (India Standard Time) | 2020-04-10T12:15:01.389Z ionic:lib:telemetry Sending telemetry for command: 'ionic cordova run' [ 'ios',
+  '--interactive',
+  '--color',
+  '--',
+  '--buildFlag=-UseModernBuildSystem=0',
+  '--verbose',
+  '--no-interactive' ]
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:01 GMT+0530 (India Standard Time) | 2020-04-10T12:15:01.390Z ionic:lib:hooks Looking for ionic:build:before npm script.
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:01 GMT+0530 (India Standard Time) | 2020-04-10T12:15:01.390Z ionic:lib:project:ionic-angular:build Looking for ionic:build npm script.
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:01 GMT+0530 (India Standard Time) | > ionic-app-scripts build --target cordova --platform ios --buildFlag=-UseModernBuildSystem=0 --verbose --no-interactive
+
+ Info | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:02 GMT+0530 (India Standard Time) | [17:45:02]  ionic-app-scripts 3.2.4 
+
+ Info | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:02 GMT+0530 (India Standard Time) | [17:45:02]  build dev started ... 
+
+ Info | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:02 GMT+0530 (India Standard Time) | [17:45:02]  clean started ... 
+
+ Info | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:02 GMT+0530 (India Standard Time) | [17:45:02]  clean finished in 8 ms 
+
+ Info | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:02 GMT+0530 (India Standard Time) | [17:45:02]  copy started ... 
+
+ Info | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:02 GMT+0530 (India Standard Time) | [17:45:02]  deeplinks started ... 
+
+ Info | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:03 GMT+0530 (India Standard Time) | [17:45:03]  deeplinks finished in 46 ms 
+[17:45:03]  transpile started ... 
+
+ Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:05 GMT+0530 (India Standard Time) | [17:45:05]  template error, "/Users/aishwaryadodmani/Desktop/aaasala/ionic/src/pages/home/home.html": Error: ENOENT: no 
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:05 GMT+0530 (India Standard Time) |             such file or directory, open '/Users/aishwaryadodmani/Desktop/aaasala/ionic/src/pages/home/home.html' 
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:05 GMT+0530 (India Standard Time) | [17:45:05]  typescript: src/app/app.component.ts, line: 6 
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:05 GMT+0530 (India Standard Time) | [17:45:05]  typescript: src/app/app.module.ts, line: 6 
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:05 GMT+0530 (India Standard Time) |             Cannot find module '../pages/home/home'. 
+
+       L6:  import { HomePage } from '../pages/home/home';
+       L7:  import { LiveUpdateProvider } from "../providers/live-update/live-update";
+
+            Cannot find module '../pages/home/home'. 
+
+       L5:  import { MyApp } from './app.component';
+       L6:  import { HomePage } from '../pages/home/home';
+       L7:  import { LiveUpdateProvider } from '../providers/live-update/live-update';
+
+
+ Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:05 GMT+0530 (India Standard Time) | [17:45:05]  ionic-app-script task: "build" 
+[17:45:05]  Error: Failed to transpile program 
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:05 GMT+0530 (India Standard Time) | Error: Failed to transpile program
+    at new BuildError (/Users/aishwaryadodmani/Desktop/aaasala/ionic/node_modules/@ionic/app-scripts/dist/util/errors.js:16:28)
+    at /Users/aishwaryadodmani/Desktop/aaasala/ionic/node_modules/@ionic/app-scripts/dist/transpile.js:159:20
+    at new Promise (<anonymous>)
+    at transpileWorker (/Users/aishwaryadodmani/Desktop/aaasala/ionic/node_modules/@ionic/app-scripts/dist/transpile.js:107:12)
+    at Object.transpile (/Users/aishwaryadodmani/Desktop/aaasala/ionic/node_modules/@ionic/app-scripts/dist/transpile.js:64:12)
+    at /Users/aishwaryadodmani/Desktop/aaasala/ionic/node_modules/@ionic/app-scripts/dist/build.js:109:82
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:05 GMT+0530 (India Standard Time) | [ERROR] An error occurred while running subprocess ionic-app-scripts.
+        
+        ionic-app-scripts build --target cordova --platform ios --buildFlag=-UseModernBu... exited with exit code 1.
+        
+        Re-running this command with the --verbose flag may provide more information.
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:05 GMT+0530 (India Standard Time) | 2020-04-10T12:15:05.731Z ionic:utils-process onBeforeExit handler: process.exit received
+2020-04-10T12:15:05.731Z ionic:utils-process onBeforeExit handler: running 1 functions
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:05 GMT+0530 (India Standard Time) | 2020-04-10T12:15:05.758Z ionic:utils-process onBeforeExit handler: exiting (exit code 1)
+
+Error
+    at file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170616
+    at f (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:169942)
+    at Object.error (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5602:170498)
+    at Socket.<anonymous> (file:///Users/aishwaryadodmani/Desktop/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:3847:13049)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | updatePreviewState | Fri Apr 10 2020, 17:45:05 GMT+0530 (India Standard Time) | Error: Preview on Simulator failed.
+ Info | projectHandler | loadProjectDatabase | Fri Apr 10 2020, 18:02:32 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/aaasala
+ Info | datasourceDB | init | Fri Apr 10 2020, 18:02:32 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri Apr 10 2020, 18:02:32 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri Apr 10 2020, 18:02:32 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri Apr 10 2020, 18:02:32 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri Apr 10 2020, 18:02:32 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri Apr 10 2020, 18:02:32 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Fri Apr 10 2020, 18:02:32 GMT+0530 (India Standard Time) | Initialized all the DBs
